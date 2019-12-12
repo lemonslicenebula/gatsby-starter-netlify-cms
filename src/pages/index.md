@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Nebulous
 image: /img/photo-1462331940025-496dfbfc7564.jpeg
 heading: Nebulous
 subheading: A podcast about interstellar space
